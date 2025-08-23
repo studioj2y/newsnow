@@ -43,7 +43,27 @@ export default defineConfig({
   ],
   extendTheme: (theme) => {
     // @ts-expect-error >_<
-    theme.colors.primary = theme.colors.red
+    theme.colors.milkypurple = {
+    400: '#c9c9ea',
+    500: '#8b98e3',
+  }
+    theme.colors.milkyred = {
+    400: '#fec2dc',
+    500: '#fea0bf',
+  }      
+    theme.colors.milkygreen = {
+    400: '#e7e4af',
+    500: '#b9c97b',
+  }       
+    theme.colors.milkyblue = {
+    400: '#b6d4ec',
+    500: '#ddf3fe',
+  }   
+    theme.colors.milkygrey = {
+    400: '#edede8',
+    500: '#e5e5e5',
+  }   
+    theme.colors.primary = theme.colors.milkyred
     return theme
   },
 })
