@@ -63,6 +63,10 @@ export default defineConfig({
     400: '#edede8',
     500: '#e5e5e5',
   }   
+    theme.colors.milkyorange = {
+    400: '#edd3c2',
+    500: '#fc9f66',
+  }   
     theme.colors.primary = theme.colors.milkyred
     return theme
   },
