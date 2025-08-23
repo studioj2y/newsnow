@@ -21,7 +21,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.zhihu.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "weibo": {
@@ -30,7 +30,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://weibo.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 120000
   },
   "zaobao": {
@@ -39,7 +39,7 @@
     "desc": "来自第三方网站: 早晨报",
     "column": "world",
     "home": "https://www.zaobao.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 1800000
   },
   "coolapk": {
@@ -48,7 +48,7 @@
     "type": "hottest",
     "column": "tech",
     "home": "https://coolapk.com",
-    "color": "green",
+    "color": "milkypurple",
     "interval": 600000
   },
   "mktnews": {
@@ -74,7 +74,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://wallstreetcn.com/",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 300000,
     "title": "快讯"
   },
@@ -83,7 +83,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://wallstreetcn.com/",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 300000,
     "title": "快讯"
   },
@@ -91,7 +91,7 @@
     "name": "华尔街见闻",
     "column": "finance",
     "home": "https://wallstreetcn.com/",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 1800000,
     "title": "最新"
   },
@@ -100,7 +100,7 @@
     "type": "hottest",
     "column": "finance",
     "home": "https://wallstreetcn.com/",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 1800000,
     "title": "最热"
   },
@@ -111,7 +111,7 @@
     "disable": "cf",
     "column": "tech",
     "home": "https://36kr.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000,
     "title": "快讯"
   },
@@ -121,7 +121,7 @@
     "disable": "cf",
     "column": "tech",
     "home": "https://36kr.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000,
     "title": "快讯"
   },
@@ -139,7 +139,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://hupu.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "tieba": {
@@ -148,7 +148,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://tieba.baidu.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "toutiao": {
@@ -156,7 +156,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.toutiao.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "ithome": {
@@ -164,7 +164,7 @@
     "type": "realtime",
     "column": "tech",
     "home": "https://www.ithome.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "thepaper": {
@@ -180,14 +180,14 @@
     "name": "卫星通讯社",
     "column": "world",
     "home": "https://sputniknews.cn",
-    "color": "orange",
+    "color": "milkyorange",
     "interval": 600000
   },
   "cankaoxiaoxi": {
     "name": "参考消息",
     "column": "world",
     "home": "https://china.cankaoxiaoxi.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 1800000
   },
   "pcbeta": {
@@ -196,7 +196,7 @@
     "type": "realtime",
     "column": "tech",
     "home": "https://bbs.pcbeta.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 300000,
     "title": "Win11"
   },
@@ -205,7 +205,7 @@
     "type": "realtime",
     "column": "tech",
     "home": "https://bbs.pcbeta.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 300000,
     "title": "Win11"
   },
@@ -215,7 +215,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://www.cls.cn",
-    "color": "red",
+    "color": "milkyred",
     "interval": 300000,
     "title": "电报"
   },
@@ -224,7 +224,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://www.cls.cn",
-    "color": "red",
+    "color": "milkyred",
     "interval": 300000,
     "title": "电报"
   },
@@ -232,7 +232,7 @@
     "name": "财联社",
     "column": "finance",
     "home": "https://www.cls.cn",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000,
     "title": "深度"
   },
@@ -241,7 +241,7 @@
     "type": "hottest",
     "column": "finance",
     "home": "https://www.cls.cn",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000,
     "title": "热门"
   },
@@ -251,7 +251,7 @@
     "type": "hottest",
     "column": "finance",
     "home": "https://xueqiu.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 120000,
     "title": "热门股票"
   },
@@ -260,7 +260,7 @@
     "type": "hottest",
     "column": "finance",
     "home": "https://xueqiu.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 120000,
     "title": "热门股票"
   },
@@ -270,7 +270,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://www.gelonghui.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 120000
   },
   "fastbull": {
@@ -312,7 +312,7 @@
     "type": "hottest",
     "column": "tech",
     "home": "https://news.ycombinator.com/",
-    "color": "orange",
+    "color": "milkyorange",
     "interval": 600000
   },
   "producthunt": {
@@ -320,7 +320,7 @@
     "type": "hottest",
     "column": "tech",
     "home": "https://www.producthunt.com/",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "github": {
@@ -348,7 +348,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.bilibili.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000,
     "title": "热搜"
   },
@@ -357,7 +357,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.bilibili.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000,
     "title": "热搜"
   },
@@ -367,7 +367,7 @@
     "disable": "cf",
     "column": "china",
     "home": "https://www.bilibili.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000,
     "title": "热门视频"
   },
@@ -377,7 +377,7 @@
     "disable": "cf",
     "column": "china",
     "home": "https://www.bilibili.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 1800000,
     "title": "排行榜"
   },
@@ -387,7 +387,7 @@
     "disable": "cf",
     "column": "china",
     "home": "https://www.kuaishou.com",
-    "color": "orange",
+    "color": "milkyorange",
     "interval": 600000
   },
   "kaopu": {
@@ -403,7 +403,7 @@
     "type": "realtime",
     "column": "finance",
     "home": "https://www.jin10.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "baidu": {
@@ -411,7 +411,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.baidu.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "nowcoder": {
@@ -419,7 +419,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.nowcoder.com",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "sspai": {
@@ -427,7 +427,7 @@
     "type": "hottest",
     "column": "tech",
     "home": "https://sspai.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "juejin": {
@@ -435,7 +435,7 @@
     "type": "hottest",
     "column": "tech",
     "home": "https://juejin.cn",
-    "color": "blue",
+    "color": "milkyblue",
     "interval": 600000
   },
   "ifeng": {
@@ -444,7 +444,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.ifeng.com",
-    "color": "red",
+    "color": "milkyred",
     "interval": 600000
   },
   "chongbuluo": {
@@ -452,7 +452,7 @@
     "name": "虫部落",
     "column": "china",
     "home": "https://www.chongbuluo.com/forum.php?mod=guide&view=newthread",
-    "color": "green",
+    "color": "milkypurple",
     "interval": 1800000,
     "title": "最新"
   },
@@ -460,7 +460,7 @@
     "name": "虫部落",
     "column": "china",
     "home": "https://www.chongbuluo.com/forum.php?mod=guide&view=newthread",
-    "color": "green",
+    "color": "milkypurple",
     "interval": 1800000,
     "title": "最新"
   },
@@ -469,7 +469,7 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.chongbuluo.com/forum.php?mod=guide&view=hot",
-    "color": "green",
+    "color": "milkypurple",
     "interval": 1800000,
     "title": "最热"
   }
