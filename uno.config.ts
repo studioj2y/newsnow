@@ -67,7 +67,7 @@ export default defineConfig({
     400: '#edd3c2',
     500: '#fc9f66',
   }   
-    theme.colors.primary = theme.colors.milkyred
-    return theme
+    theme.colors.primary = theme.colors.milkypurple
+      return theme
   },
 })
